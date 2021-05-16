@@ -177,6 +177,12 @@ STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
+cloudinary.config( 
+  cloud_name = "dh0tqdg08", 
+  api_key = "721889788919147", 
+  api_secret = "oonANg45wFmzdg3FZyCyjhPBvds" 
+)
+
 # Extra places for collectstatic to find static files.
 STATICFILES_DIRS = (
     os.path.join(BASE_DIR, 'static'),
