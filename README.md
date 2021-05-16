@@ -1,4 +1,4 @@
-# Pic - Galery  
+# Pic - galery  
 ## Author  
   
 >[Victor-Kigen](https://github.com/Owiti-Charles)  
@@ -67,7 +67,7 @@ Open the application on your browser `127.0.0.1:8000`.
 ## Technology used  
   
 * [Python3.6](https://www.python.org/)  
-* [Django 1.11](https://docs.djangoproject.com/en/2.2/)  
+* [Django 3.2.2](https://docs.djangoproject.com/en/2.2/)  
 * [Heroku](https://heroku.com)  
   
   
