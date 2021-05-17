@@ -79,5 +79,5 @@ If you have any question or contributions, please email me at [vickigen@gmail.co
   
 ## License 
 
-* [![License](https://img.shields.io/packagist/l/loopline-systems/closeio-api-wrapper.svg)](https://github.com/kigensky/pic-galery/blob/master/LICENSE)  
+* [![License](https://img.shields.io/packagist/l/loopline-systems/closeio-api-wrapper.svg)](https://github.com/kigensky/pic-galery/blob/main/LICENCE)  
 * Copyright (c) 2021 **Victor Kigen**
