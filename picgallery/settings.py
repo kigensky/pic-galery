@@ -179,9 +179,9 @@ MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 cloudinary.config( 
-  CLOUD_NAME = config ('CLOUD_NAME'), 
-  API_KEY = config ('API_KEY'),
-  API_SECRET = config ('API_SECRET')  
+   cloud_name = config("CLOUD_NAME"), 
+  api_key = config("API_KEY"), 
+  api_secret = config("API_SECRET")
 )
 
 # Extra places for collectstatic to find static files.
